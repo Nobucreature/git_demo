@@ -1,2 +1,3 @@
 Tätä tekstiä ei ole paikallisessa työhakemistossa
 äffä
+Tätä tekstiä ei ole GitHubissa
